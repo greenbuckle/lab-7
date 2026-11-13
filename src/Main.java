@@ -1,3 +1,4 @@
+//https://github.com/greenbuckle/lab-7/blob/master/src/Main.java
 
 import java.io.*;
 
